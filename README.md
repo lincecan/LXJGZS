@@ -1,12 +1,10 @@
-Webstack网址导航
+LXJGZS 导航网站
 ===
 <br><br>
-本项目这是一个网址导航网站，内容均由[viggo](https://www.viggoz.com)收集并整理。本项目前端基于bootstrap前端框架开发，各后台及主题版本由广大网友提供。
+## 这是一个导航网站，是根据GitHub上的[WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io)项目简化
 <br><br>
-下面提供了多种主题及后台版本供大家选择，感谢各位GitHub网友无私贡献🙏，具体各版本后台使用方法请查看对应的开源说明文档！
+## WebStackPage项目是由[ViggoZ](https://www.viggoz.com)大佬收集整理
 <br><br>
-注意⚠️：以下webstack所有项目均为开源项目，webstack没有任何Pro版本或专业版本！
+## [WebStackPage官网](www.webstack.cc)
 <br><br>
-![](http://www.webstack.cc/assets/images/preview.gif)
-<br><br>
-这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
+## [原WebStackPage样子](https://camo.githubusercontent.com/cd5db39ba59752822b7770d5074571fc4db1660af9066dfdb9953ff53ed7195e/687474703a2f2f7777772e776562737461636b2e63632f6173736574732f696d616765732f707265766965772e676966)

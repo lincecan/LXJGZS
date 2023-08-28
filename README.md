@@ -1,4 +1,4 @@
-# [LXJGZS 导航网站](lxjgzs.zeabur.app)
+# [LXJGZS 导航网站](https://lxjgzs.zeabur.app/)
 
 ### 这是一个导航网站，是根据GitHub上的[WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io)项目简化而成
 ##### <br><br>
